@@ -1,0 +1,92 @@
+body{
+    padding: 100px;
+    background-image:url(https://img.freepik.com/premium-photo/coffee-superpowers-cup-beans-sack-dark-background_971713-289.jpg);
+    background-size:cover ;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: repeat;
+}
+h1,h2,p{
+    text-align:center;
+}
+.menu{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10%;
+    width:50%;
+    background-color: rgba(60, 10, 94, 0.7);
+    padding: 20px;
+    max-width: 500;
+}
+.item p{ 
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+.tür, .tatlı{
+    text-align: left;
+    width: 75%;
+    color: rgb(60, 10, 94);
+    background-color: rgb(196, 168, 11);
+}
+.fiyat{
+    text-align: right;
+    width:25%;
+    color: rgb(60, 10, 94);
+    background-color: rgb(196, 168, 11);
+}
+h1, h2{
+    font-family: impact, serif;
+    color: rgb(196, 168, 11);
+    
+}
+h1{
+    margin-top:0px;
+    margin-bottom:15px;
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+.krls{
+    font-style: italic;
+    color: white;
+}
+hr{
+    height: 2px;
+    background-color: rgb(196, 168, 11);
+    border-color: rgb(196, 168, 11);
+}
+.bottom-line{
+    margin-top: 25px;
+}
+/*FOOTER*/
+footer{
+    font-size: 14px;
+}
+a{
+    color:rgb(196, 168, 11);
+}
+
+a:visited{
+    color:grey;
+}
+a:hover{
+    color:rgb(9, 226, 9);
+}
+a:active{
+    color:white;
+}
+.reklam{
+    margin-bottom:5px;
+}
+img{
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top: -20px;
+    margin-bottom: 5px;
+    width:30px; 
+    height:30px;
+}
